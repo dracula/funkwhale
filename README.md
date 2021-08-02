@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/funkwhale](https://draculathe
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/funkwhale/graphs/contributors).
 
 [![Zack Stickles](https://github.com/zstix.png?size=100)](https://github.com/zstix) |
 --- |
